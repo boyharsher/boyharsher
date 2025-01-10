@@ -10,8 +10,8 @@
   <div align="center" style="color: #add8e6; font-size: 1rem; line-height: 1.2;">
   <!-- First Paragraph -->
   <p>
-  Just look at me, I am walking love incarnate. <br/>
-   Look at the frequencies in which I vibrate , 
+  Just look at me, I'm a living act of holiness. <br/>
+  Giving all the positivity I possess, 
    I'm going to light up the world <br/>
    Peace will come to me.
   </p>
