@@ -2,7 +2,7 @@
  
  
 <p align="center">
-  <img src="https://i.postimg.cc/Kz6jDZLx/tumblr-863f776851d8d2057b5b01a16102e5eb-4426250f-1280.jpg"400" alt="pokemon leon pixel art" />
+  <img src="https://i.postimg.cc/7h0H7LCQ/tumblr-cc2ab00bbd11927358905699c8b84f7c-89b4614b-1280.jpg"400" alt="pokemon leon pixel art" />
 </p>
 
 <div align="center" style="color: #add8e6; font-size: 1rem; line-height: 1.2;">
